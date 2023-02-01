@@ -4,6 +4,7 @@
 
 # Ip Converter
 
+
 A project which converts binary numbers to decimal and vice versa!
 
 
@@ -35,9 +36,9 @@ What optimizations did you make in your code? (E.g. refactors, performance impro
 - [@johnspyrop](https://github.com/johnspyrop)
 - [@Nik-os-z](https://github.com/Nik-os-z)
 
-
-
 ![Logo](https://cdn.freelogodesign.org/files/76f616653e3e462bbeb29bdba7d8dceb/thumb/logo_200x200.png?v=0)
+
+
 
 
 
@@ -55,6 +56,7 @@ Any additional information goes here
 ![App Screenshot](https://scontent.fath6-1.fna.fbcdn.net/v/t1.15752-9/325133182_921506209021496_7472395072126989784_n.png?stp=dst-png_p206x206&_nc_cat=110&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeEbpCmuD5KdA-vnMfrMZTyFkabMtnyDjeyRpsy2fION7Ph6z9yUnXGDGYmmG-X6kyxxlMAsU40_hUT-_NgOseKc&_nc_ohc=An_f9BrMSFIAX90v365&_nc_ht=scontent.fath6-1.fna&oh=03_AdRwpkx0Xf0VH3-QYfjrLctmxP3VuFVTxnsB1P8v7-XK8Q&oe=6401136E)
 
 ![App Screenshot](https://scontent.fath6-1.fna.fbcdn.net/v/t1.15752-9/324761535_5296117053822200_1940573536107720462_n.png?stp=dst-png_p206x206&_nc_cat=101&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeEl226kexPyxWG69ZPGxYGcdJ6z2Nbd3Qd0nrPY1t3dB9lOVUbHePKUEnl6OyB7H7-mi9rkFeigJLJd7gDWGHBg&_nc_ohc=sl2sV4r_DwwAX-05bUX&_nc_ht=scontent.fath6-1.fna&oh=03_AdSFBMtQo_WeN5CYPzU7twhxH-jUP4N66LlfkKigWw-7xA&oe=640112B3)
+
 
 
 
