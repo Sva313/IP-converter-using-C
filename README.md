@@ -1,7 +1,5 @@
 
 
-# READ.ME by SSZ
-
 # Ip Converter
 
 
