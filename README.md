@@ -15,7 +15,7 @@ Answer: The program either terminates, or in the case of the calculations, shows
 #### Question 2: How is the conversion executed?
 
 Answer: Through the use of four consecutive while loops, which carry out the calculations.
-In detail, we created 3 functions in total: The main, the one whick converts  the     decimal numbers into binary, and the one which converts the binary numbers into decimal.
+In detail, we created 3 functions in total: The main, the one which converts  the     decimal numbers into binary, and the one which converts the binary numbers into decimal.
 Depending on the users choice, the corrensponding function is called and executed.
 
 
